@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Image Upload Sample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="upload_photo">Upload Photo</string>
+
+    <string name="upload">Upload</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="upload_cancelled">The Upload has been Cancelled</string>
+    <string name="uploading">Uploading... Please Wait</string>
+    <string name="successfully_uploaded">The Upload has been successful.</string>
+    <string name="upload_error">There was an error in Uploading this file.</string>
+</resources>
